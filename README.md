@@ -8,7 +8,7 @@
 
 <h4 align="left"> 📧 Contact: [Gmail](mailto:piwonskipiotrp@gmail.com) </h3> 
 
-<h4 align="left">🅿 Location: Warshaw, Poland</h4>
+<h4 align="left">🅿 Location: Warsaw, Poland</h4>
 
 
 
