@@ -1,4 +1,6 @@
-### Hi there 👋
+<p align="center">
+ <h2 align="center"> Hi there 👋</h2>
+</p>
 
 <!--
 **PiotrPiwonski/PiotrPiwonski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
