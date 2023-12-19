@@ -1,5 +1,5 @@
 <p align="center">
- <h2 align="center"> Hi there 👋</h2>
+ <h2 align="center"> Hi there 👋 My name is Piotr Piwoński</h2>
 </p>
 
 <!--
