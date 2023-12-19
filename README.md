@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![PiotrPiwonski's Stats](https://github-readme-stats.vercel.app/api?username=PiotrPiwonski&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![PiotrPiwonski's Streak](https://github-readme-streak-stats.herokuapp.com/?user=PiotrPiwonski&theme=vue-dark&hide_border=true)
+![PiotrPiwonski's Stats](https://github-readme-stats.vercel.app/api?username=PiotrPiwonski&theme=tokyonight&show_icons=true&hide_border=false&count_private=false)
+![PiotrPiwonski's Streak](https://github-readme-streak-stats.herokuapp.com/?user=PiotrPiwonski&theme=tokyonight&hide_border=false)
