@@ -8,6 +8,8 @@
 
 <h3> 📧 Contact </h3> 
 E-mail: [piwonskipiotrp@gmail.com](mailto:piwonskipiotrp@gmail.com)
+[Gmail](mailto:piwonskipiotrp@gmail.com)
+
 
 <!--
 **PiotrPiwonski/PiotrPiwonski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
