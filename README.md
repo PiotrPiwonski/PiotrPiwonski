@@ -2,7 +2,7 @@
  <h2 align="center"> Hi there 👋 My name is Piotr Piwoński</h2>
 </p>
 <hr>
-
+<h3 align="left">👀 I am looking for a job as a Junior Front-end developer or tester 👀</h3>
 <!--
 **PiotrPiwonski/PiotrPiwonski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
