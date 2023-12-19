@@ -1,6 +1,7 @@
 <p align="center">
  <h2 align="center"> Hi there 👋 My name is Piotr Piwoński</h2>
 </p>
+<hr>
 
 <!--
 **PiotrPiwonski/PiotrPiwonski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
