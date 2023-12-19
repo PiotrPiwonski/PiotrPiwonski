@@ -6,7 +6,7 @@
 
 <h3 align="left">📈 I am constantly developing my competences in JavaScript</h3>
 
-<h4 align="left"> 📧 Contact: [Gmail](mailto:piwonskipiotrp@gmail.com) </h3> 
+<h4 align="left"> 📧 Contact: piwonskipiotrp@gmail.com </h3> 
 
 <h4 align="left">🅿 Location: Warsaw, Poland</h4>
 
