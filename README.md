@@ -7,7 +7,7 @@
 <h3 align="left">📈 I am constantly developing my competences in JavaScript</h3>
 
 <h3> 📧 Contact </h3> 
-E-mail: [Piotr Piwoński](mailto:piwonskipiotrp@gmail.com)
+E-mail: [piwonskipiotrp@gmail.com](mailto:piwonskipiotrp@gmail.com)
 
 <!--
 **PiotrPiwonski/PiotrPiwonski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
