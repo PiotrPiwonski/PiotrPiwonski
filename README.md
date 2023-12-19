@@ -6,9 +6,8 @@
 
 <h3 align="left">📈 I am constantly developing my competences in JavaScript</h3>
 
-<h3> 📧 Contact </h3> 
-E-mail: [piwonskipiotrp@gmail.com](mailto:piwonskipiotrp@gmail.com)
-[Gmail](mailto:piwonskipiotrp@gmail.com)
+<h3 align="left"> 📧 Contact: [Gmail](mailto:piwonskipiotrp@gmail.com) </h3> 
+
 
 
 <!--
