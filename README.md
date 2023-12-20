@@ -3,9 +3,9 @@
 </p>
 <hr>
 <h3 align="left">👀 I am looking for a job as a Junior Front-end developer or tester 👀</h3>
-
+<!--
 <h3 align="left">📈 I am constantly developing my competences in JavaScript</h3>
-
+-->
 <h4 align="left"> 📧 Contact: piwonskipiotrp@gmail.com </h3> 
 
 <h4 align="left">🅿 Location: Warsaw, Poland</h4>
