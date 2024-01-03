@@ -10,7 +10,7 @@
 
 <h4 align="left">🅿 Location: Warsaw, Poland</h4>
 
-### 🛠 Tech Stack : 
+## 🛠 Tech Stack : 
 
 ### 🖥 Front-End :
 
