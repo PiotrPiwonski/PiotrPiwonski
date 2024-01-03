@@ -11,7 +11,7 @@
 <h4 align="left">🅿 Location: Warsaw, Poland</h4>
 
 <h4>🛠 Tech Stack : </h4>
-
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 
 <!--
 **PiotrPiwonski/PiotrPiwonski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
