@@ -11,7 +11,7 @@
 <h4 align="left">🅿 Location: Warsaw, Poland</h4>
 
 <h4>🛠 Tech Stack : </h4>
-https://img.shields.io/badge/Code-Angular-informational?style=plastic&logo=angular&logoColor=white
+![](https://img.shields.io/badge/Code-Angular-informational?style=plastic&logo=angular&logoColor=white)
 
 
 <!--
