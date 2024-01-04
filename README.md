@@ -18,6 +18,8 @@
 ![](https://img.shields.io/badge/Code-CSS-informational?style=plastic&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/Code-Sass-informational?style=plastic&logo=sass&logoColor=white)
 ![](https://img.shields.io/badge/Code-Bootstrap-informational?style=plastic&logo=bootstrap&logoColor=white)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=plastic&logo=javascript&logoColor=white)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=plastic&logo=typescript&logoColor=white)
 
 
 ### 🗄 Back-End :
