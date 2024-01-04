@@ -15,6 +15,9 @@
 ### 🖥 Front-End :
 
 ![](https://img.shields.io/badge/Code-HTML-informational?style=plastic&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/Code-CSS-informational?style=plastic&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/Code-Sass-informational?style=plastic&logo=sass&logoColor=white)
+![](https://img.shields.io/badge/Code-Bootstrap-informational?style=plastic&logo=bootstrap&logoColor=white)
 
 
 ### 🗄 Back-End :
