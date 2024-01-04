@@ -14,7 +14,8 @@
 
 ### 🖥 Front-End :
 
-![](https://img.shields.io/badge/Code-Angular-informational?style=plastic&logo=angular&logoColor=white)
+![](https://img.shields.io/badge/Code-HTML-informational?style=plastic&logo=html5&logoColor=white)
+
 
 ### 🗄 Back-End :
 
