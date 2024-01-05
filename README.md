@@ -26,7 +26,7 @@
 ![](https://img.shields.io/badge/Code-Angular-informational?style=plastic&logo=angular&logoColor=white)
 ![](https://img.shields.io/badge/Code-Angular%20Jasmine-informational?style=plastic&logo=jasmine&logoColor=white)
 ![](https://img.shields.io/badge/Code-Jest-informational?style=plastic&logo=jest&logoColor=white)
-
+![](https://img.shields.io/badge/Code-Cypress-informational?style=plastic&logo=cypress&logoColor=white)
 
 
 ### 🗄 Back-End :
