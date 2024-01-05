@@ -23,6 +23,10 @@
 ![](https://img.shields.io/badge/Code-React-informational?style=plastic&logo=react&logoColor=white)
 ![](https://img.shields.io/badge/Code-React%20Styled%20Component-informational?style=plastic&logo=react&logoColor=white)
 ![](https://img.shields.io/badge/Code-React%20Testing%20Liblary-informational?style=plastic&logo=react&logoColor=white)
+![](https://img.shields.io/badge/Code-Angular-informational?style=plastic&logo=angular&logoColor=white)
+![](https://img.shields.io/badge/Code-Angular%20Jasmine-informational?style=plastic&logo=jasmine&logoColor=white)
+![](https://img.shields.io/badge/Code-Jest-informational?style=plastic&logo=jest&logoColor=white)
+
 
 
 ### 🗄 Back-End :
