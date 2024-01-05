@@ -21,6 +21,7 @@
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=plastic&logo=javascript&logoColor=white)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=plastic&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/Code-React-informational?style=plastic&logo=react&logoColor=white)
+![](https://img.shields.io/badge/Code-React%20Styled%20Component-informational?style=plastic&logo=react&logoColor=white)
 
 
 ### 🗄 Back-End :
