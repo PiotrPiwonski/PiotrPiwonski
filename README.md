@@ -34,6 +34,7 @@
 ![](https://img.shields.io/badge/Code-Node.Js-informational?style=plastic&logo=nodedotjs&logoColor=white)
 ![](https://img.shields.io/badge/Code-Express-informational?style=plastic&logo=express&logoColor=white)
 ![](https://img.shields.io/badge/Code-Nest-informational?style=plastic&logo=nestjs&logoColor=white)
+![](https://img.shields.io/badge/DB-MySQL-informational?style=plastic&logo=mysql&logoColor=white)
 
 
 
